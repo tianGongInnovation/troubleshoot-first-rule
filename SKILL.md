@@ -2,14 +2,14 @@
 name: troubleshoot-first-rule
 description: 一条排错方法论：遇到报错、故障、软件不正常，第一个动作不是自己琢磨，而是先把报错原文（一字不差地）拿到网上搜——中文搜一遍、英文搜一遍。道理很简单：您遇到的问题，大概率全世界已经有很多人遇到过，而且已经有人把解决方法写在论坛、博客、问答网站上。普遍问题必有现成解。搜到对症的解法，照着做就行；搜不到，才轮到深入分析。这条规则能省下大量“自己从头研究、抓包、改注册表、写工具”的冤枉时间——那些是最后手段，不是第一动作。本技能把这条规则固化给 AI 助手：它遇到报错时会先搜现成解，而不是自作主张地原创分析，避免越修越坏。适合：经常遇到电脑报错、软件故障，习惯自己硬扛或乱试的使用者。触发词：排错、报错、故障排查、先搜现成解、遇到错误怎么办、troubleshoot。
 agent_created: true
-version: 1.0.4
+version: 1.0.5
 author: 天工创新坊
 license: CC BY 4.0
 display_name: "排错方法论第一铁律"
 display_name_en: Troubleshoot First Rule
-trigger: ["排错", "报错", "故障排查", "先搜现成解", "遇到错误怎么办"]
+trigger: ["排错", "报错", "故障排查", "先搜现成解", "遇到错误怎么办", "troubleshooting", "got an error", "search for existing solutions first", "what to do about an error"]
 description_zh: "排错方法：普遍性问题宜先检索现成解，不自行开展原创分析"
-description_en: "Search for existing solutions first before original debugging"
+description_en: "A troubleshooting method: for common problems, search for existing solutions first instead of starting an original analysis of your own"
 category: development
 ---
 
